@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234548133738",
+    "project_id": "gx7gram",
+    "storage_bucket": "gx7gram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234548133738:android:368869f6de2076381eef13",
+        "android_client_info": {
+          "package_name": "com.G7.gx7gram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQsFir28G5ieoPSxLyd-x8gCOV4N4AJTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
